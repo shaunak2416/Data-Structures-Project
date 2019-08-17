@@ -1,0 +1,4 @@
+Name=  Shaunak
+Blood group=  O+
+Issue=  Heart Attack
+Medical assistance required=  Yes
